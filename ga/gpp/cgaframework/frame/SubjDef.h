@@ -13,8 +13,8 @@ static constexpr int MaxSeed       = 500;
 static constexpr int MaxCluster    = 50;
 
 enum class ResultState {
-    None = 0,
-    Complete = 1,
-    NotComplete = 2,
-    ArriveAtGoal = 3,
+  None = 0,
+  Complete = 1,
+  NotComplete = 2,
+  ArriveAtGoal = 3,
 };
