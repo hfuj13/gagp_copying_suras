@@ -1,0 +1,48 @@
+[5] Max:0.712  Avg:0.688
+生産順(T-10C,TypeF,T-10B,TypeG,T-771,TypeA,TypeB,TypeD)
+[10] Max:0.787  Avg:0.716
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[15] Max:0.787  Avg:0.787
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[20] Max:0.787  Avg:0.787
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[25] Max:0.787  Avg:0.787
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[30] Max:0.787  Avg:0.785
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[35] Max:0.787  Avg:0.787
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[40] Max:0.787  Avg:0.787
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[45] Max:0.787  Avg:0.787
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[50] Max:0.787  Avg:0.787
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[55] Max:0.787  Avg:0.787
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[60] Max:0.787  Avg:0.784
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[65] Max:0.787  Avg:0.787
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[70] Max:0.787  Avg:0.787
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[75] Max:0.787  Avg:0.787
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[80] Max:0.787  Avg:0.787
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[85] Max:0.787  Avg:0.787
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[90] Max:0.787  Avg:0.787
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[95] Max:0.787  Avg:0.787
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[100] Max:0.787  Avg:0.782
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+[100] Max:0.787  Avg:0.782
+生産順(TypeD,TypeB,TypeA,TypeF,T-771,TypeG,T-10B,T-10C)
+
+0:0'0"
+指定世代を終了しました
+生産順  TypeD TypeB TypeA TypeF T-771 TypeG T-10B T-10C 
+生産種類数: 8  切替コスト: 269.000(Fitness: 0.787)
+Pop.:50, Gen.:100, pCrossover:0.500, pMutation:0.100
