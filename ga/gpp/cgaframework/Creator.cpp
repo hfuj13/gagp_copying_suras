@@ -21,5 +21,3 @@ TViewApp* TCreator::CreateViewApp(void)
   // 書き換える
   return new TViewApp;
 }
-
-
